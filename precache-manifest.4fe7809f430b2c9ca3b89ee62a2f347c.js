@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d2048ae5af1d022e0f4481adc5b49b0",
+    "revision": "a70256483cdec8f3c863f231e0902268",
     "url": "/techFest20/index.html"
   },
   {
-    "revision": "e57c5dd2ec371485e313",
+    "revision": "cde2ad04a90e2e007b8c",
     "url": "/techFest20/static/css/2.aa46e993.chunk.css"
   },
   {
-    "revision": "46a1a07ce457b3370e9b",
+    "revision": "11d7faf25496980b9578",
     "url": "/techFest20/static/css/main.5c832ece.chunk.css"
   },
   {
-    "revision": "e57c5dd2ec371485e313",
-    "url": "/techFest20/static/js/2.869a5494.chunk.js"
+    "revision": "cde2ad04a90e2e007b8c",
+    "url": "/techFest20/static/js/2.37ce46bb.chunk.js"
   },
   {
-    "revision": "46a1a07ce457b3370e9b",
-    "url": "/techFest20/static/js/main.5202c8ce.chunk.js"
+    "revision": "11d7faf25496980b9578",
+    "url": "/techFest20/static/js/main.f53ec168.chunk.js"
   },
   {
     "revision": "5e3fbe5df469a61d56e2",

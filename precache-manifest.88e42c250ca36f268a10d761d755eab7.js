@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfacc3d232d3ce9ad346c7f142de5709",
+    "revision": "6d2048ae5af1d022e0f4481adc5b49b0",
     "url": "/techFest20/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techFest20/static/css/2.aa46e993.chunk.css"
   },
   {
-    "revision": "0404e9e1aaa71bc55773",
+    "revision": "46a1a07ce457b3370e9b",
     "url": "/techFest20/static/css/main.5c832ece.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techFest20/static/js/2.869a5494.chunk.js"
   },
   {
-    "revision": "0404e9e1aaa71bc55773",
-    "url": "/techFest20/static/js/main.a9c8d456.chunk.js"
+    "revision": "46a1a07ce457b3370e9b",
+    "url": "/techFest20/static/js/main.5202c8ce.chunk.js"
   },
   {
     "revision": "5e3fbe5df469a61d56e2",

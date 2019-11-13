@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/techFest20/static/css/main.5c832ece.chunk.css",
-    "main.js": "/techFest20/static/js/main.a9c8d456.chunk.js",
-    "main.js.map": "/techFest20/static/js/main.a9c8d456.chunk.js.map",
+    "main.js": "/techFest20/static/js/main.5202c8ce.chunk.js",
+    "main.js.map": "/techFest20/static/js/main.5202c8ce.chunk.js.map",
     "runtime-main.js": "/techFest20/static/js/runtime-main.21b4f80e.js",
     "runtime-main.js.map": "/techFest20/static/js/runtime-main.21b4f80e.js.map",
     "static/css/2.aa46e993.chunk.css": "/techFest20/static/css/2.aa46e993.chunk.css",
     "static/js/2.869a5494.chunk.js": "/techFest20/static/js/2.869a5494.chunk.js",
     "static/js/2.869a5494.chunk.js.map": "/techFest20/static/js/2.869a5494.chunk.js.map",
     "index.html": "/techFest20/index.html",
-    "precache-manifest.48732450e26dbc24dcaa102f1bb8dbc0.js": "/techFest20/precache-manifest.48732450e26dbc24dcaa102f1bb8dbc0.js",
+    "precache-manifest.88e42c250ca36f268a10d761d755eab7.js": "/techFest20/precache-manifest.88e42c250ca36f268a10d761d755eab7.js",
     "service-worker.js": "/techFest20/service-worker.js",
     "static/css/2.aa46e993.chunk.css.map": "/techFest20/static/css/2.aa46e993.chunk.css.map",
     "static/css/main.5c832ece.chunk.css.map": "/techFest20/static/css/main.5c832ece.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/css/2.aa46e993.chunk.css",
     "static/js/2.869a5494.chunk.js",
     "static/css/main.5c832ece.chunk.css",
-    "static/js/main.a9c8d456.chunk.js"
+    "static/js/main.5202c8ce.chunk.js"
   ]
 }
